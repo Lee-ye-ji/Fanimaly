@@ -1,0 +1,545 @@
+body{
+    background-color: rgb(152, 115, 71);
+}
+.white{
+    background-color: white;
+    width: 1400px;
+    height: 670px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* margin-bottom: 70px; */
+    float: center;
+}
+.logo{
+    width: 50px;
+    height: 20px;  
+    margin-left: 40px;
+    position: relative;
+}
+#toplogo{
+    margin-top: 20px;
+    width: 80px;
+    height: 60px;  
+}
+#logoname{
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    color: rgb(152, 115, 71);
+    position: absolute;
+	top: 290%;
+	left: 5%;
+}
+#topMenu { 
+    height: 5px;  
+    width: 1300px; 
+    margin-left: 110px;
+    
+ }
+#topMenu ul li { 
+    list-style: none; 
+    color:black; 
+    background-color: yellow;
+    float: left; 
+    line-height: 50px; 
+    vertical-align: middle; 
+    text-align: center; 
+    /* margin-top: 80px; */
+    
+    
+} 
+#topMenu .menulink { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 200px; 
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+
+}
+ #topMenu .menulink:hover {  
+    color: white; 
+    background-color: rgb(152, 115, 71);
+}
+
+#photo{
+    width: 900px;
+    height: 450px;
+    margin-top: 30px;
+    margin-left: 250px;
+    /* margin-right: 100px; */
+    /* margin-bottom: 50px; */
+    float: center;
+}
+.namemeaning{
+    font-family: 'Jua', sans-serif;
+    color: black;
+    position: absolute;
+	top: 22%;
+	left: 60%;
+}
+#name{
+    font-size: 40px;
+}
+#meaning{
+    font-size: 20px;
+    position: absolute;
+	top: 50%;
+	left: 0%;
+}
+#bottomMenu { 
+    height: 5px;  
+    width: 1100px; 
+    margin-left: 200px;
+ }
+#bottomMenu ul li { 
+    list-style: none; 
+    color:black; 
+    background-color: yellow;
+    float: left; 
+    line-height: 50px; 
+    vertical-align: middle; 
+    text-align: center; 
+    border: 1px solid rgb(152, 115, 71);;
+     /* margin-top: 10px; */  
+    
+} 
+#bottomMenu .bmenulinkd { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 300px; 
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+}
+
+ #bottomMenu .bmenulinkd:hover {  
+    color:rgb(152, 115, 71);; 
+    /* background-color: rgb(129, 127, 4); */
+    border-bottom:3px solid rgb(152, 115, 71);
+ } 
+ #bottomlogo{
+    height: 40px;  
+    width: 50px; 
+    position: absolute;
+	top: 93%;
+    left: 5%;
+
+ }
+ #content{
+    font-family: 'Jua', sans-serif;
+    color: white;
+    position: absolute;
+	top: 91%;
+    left: 9%;
+ }
+ #menucontent{
+     color: black;
+     font-family: 'Jua', sans-serif;
+ }
+ #tab1{
+    font-family: 'Jua', sans-serif;
+    color: black;
+ }
+ #tab1 h1{
+    color: rgb(152, 115, 71);
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    /* text-transform: uppercase; */
+ }
+ #tab1 h1:before, #tab1 h1:after {
+    content: '';
+    width: 550px;
+    height: 2px;
+    border-bottom: 3px solid rgb(152, 115, 71);
+    /* margin: 0 10px; */
+    /* width: 0px; */
+}
+ #tab1 { 
+    margin-top: 100px;
+    /* margin-left: 400px; */
+ }
+#tab1 ul{
+    position: absolute;
+	top: 30%;
+	left: 36%;
+}
+#tab1 ul li { 
+    list-style: none; 
+    /* color:black;  */
+    /* background-color: yellow; */
+    float: left; 
+    line-height: 10px; 
+    vertical-align: middle; 
+    text-align: center; 
+    
+} 
+#tab1 .museummenu { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 150px; 
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    
+}
+#tab1 p{
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    text-align: center;
+    position: absolute;
+	top: 75%;
+	left: 32%;
+}
+ #tab1 span{
+    color:rgb(152, 115, 71);
+ }
+ #babydogphoto{
+    position: absolute;
+	top: 37%;
+    left: 38%;
+    width: 350px; 
+ }
+ #tab2{
+    font-family: 'Jua', sans-serif;
+    color: black;
+ }
+ #tab2 h1{
+    color: rgb(152, 115, 71);
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    /* text-transform: uppercase; */
+ }
+ #tab2 h1:before, #tab2 h1:after {
+    content: '';
+    width: 450px;
+    height: 2px;
+    border-bottom: 3px solid rgb(152, 115, 71);
+    /* margin: 0 10px; */
+    /* width: 0px; */
+}
+ #tab2 { 
+    margin-top: 100px;
+    /* margin-left: 400px; */
+ }
+#tab2 ul{
+    position: absolute;
+	top: 30%;
+	left: 15%;
+}
+#tab2 ul li { 
+    list-style: none; 
+    /* color:black;  */
+    /* background-color: yellow; */
+    float: left; 
+    line-height: 10px; 
+    vertical-align: middle; 
+    text-align: center; 
+    
+} 
+#tab2 .usemenu { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 250px; 
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    
+}
+#tab2 p{
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    position: absolute;
+	top: 48%;
+	left: 55%;
+}
+ #tab2 span{
+    color:rgb(152, 115, 71);
+ }
+ #babyphoto{
+    position: absolute;
+	top: 40%;
+    left: 16%;
+    width: 550px; 
+ }
+ #tab3{
+    font-family: 'Jua', sans-serif;
+    color: black;
+ }
+ #tab3 h1{
+    color: rgb(152, 115, 71);
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    /* text-transform: uppercase; */
+ }
+ #tab3 h1:before, #tab3 h1:after {
+    content: '';
+    width: 450px;
+    height: 2px;
+    border-bottom: 3px solid rgb(152, 115, 71);
+    /* margin: 0 10px; */
+    /* width: 0px; */
+}
+ #tab3 { 
+    margin-top: 100px;
+    /* margin-left: 400px; */
+ }
+#tab3 ul{
+    position: absolute;
+	top: 30%;
+	left: 32%;
+}
+#tab3 ul li { 
+    list-style: none; 
+    /* color:black;  */
+    /* background-color: yellow; */
+    float: left; 
+    line-height: 10px; 
+    vertical-align: middle; 
+    text-align: center; 
+    
+} 
+#tab3 .exhibitionmenu { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 150px; 
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    
+}
+#tab3 p{
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    position: absolute;
+	top: 50%;
+	left: 55%;
+}
+ #tab3 span{
+    color:rgb(152, 115, 71);
+ }
+ #ourphoto{
+    position: absolute;
+	top: 40%;
+    left: 17%;
+    width: 550px; 
+ }
+
+ #tab4{
+    font-family: 'Jua', sans-serif;
+    color: black;
+ }
+ #tab4 h1{
+    color: rgb(152, 115, 71);
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    /* text-transform: uppercase; */
+ }
+ #tab4 h1:before, #tab4 h1:after {
+    content: '';
+    width: 450px;
+    height: 2px;
+    border-bottom: 3px solid rgb(152, 115, 71);
+    /* margin: 0 10px; */
+    /* width: 0px; */
+}
+ #tab4 { 
+    margin-top: 100px;
+    /* margin-left: 400px; */
+ }
+#tab4 ul{
+    position: absolute;
+	top: 30%;
+	left: 35%;
+}
+#tab4 ul li { 
+    list-style: none; 
+    /* color:black;  */
+    /* background-color: yellow; */
+    float: left; 
+    line-height: 10px; 
+    vertical-align: middle; 
+    text-align: center; 
+    
+} 
+#tab4 .helpmenu { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 120px; 
+    font-size: 25px;
+    font-family: 'Jua', sans-serif;
+    
+}
+#tab4 p{
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    position: absolute;
+	top: 40%;
+	left: 55%;
+}
+ #tab4 span{
+    color:rgb(152, 115, 71);
+ }
+ #helpphoto{
+    position: absolute;
+	top: 40%;
+	left: 20%;
+ }
+ #shoplogo{
+    position: absolute;
+	top: 16%;
+	left: 46%;
+ }
+ #tab5{
+    font-family: 'Jua', sans-serif;
+    color: black;
+ }
+ #tab5 h1{
+    color: rgb(152, 115, 71);
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    /* text-transform: uppercase; */
+    position: absolute;
+	top: 25%;
+	left: 17%;
+ }
+ #tab5 h1:before, #tab5 h1:after {
+    content: '';
+    width: 450px;
+    height: 2px;
+    border-bottom: 3px solid rgb(152, 115, 71);
+
+    /* width: 0px; */
+}
+#tab5 ul{
+    position: absolute;
+	top: 35%;
+	left: 30%;
+}
+#tab5 ul li { 
+    list-style: none; 
+    /* color:black;  */
+    /* background-color: yellow; */
+    float: left; 
+    line-height: 10px; 
+    vertical-align: middle; 
+    text-align: center; 
+    
+} 
+#tab5 .shopmenu { 
+    text-decoration:none; 
+    color: black;
+    display: block; 
+    width: 120px; 
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;
+    
+}
+#best{
+    font-family: 'Jua', sans-serif;
+    color: rgb(152, 115, 71);
+    font-size: 20px;
+    position: absolute;
+	top: 40%;
+	left: 20%;
+}
+#bestlist p{
+    font-size: 20px; 
+    font-family: 'Jua', sans-serif;
+    float: center;
+}
+#misophoto{
+    width: 200px;
+    height: auto;
+    position: absolute;
+	top: 50%;
+	left: 20%;
+}
+#miso p{ 
+    position: absolute;
+	top: 77%;
+    left: 25%;
+    font-size: 20px; 
+}
+#miso span{
+    color: rgb(152, 115, 71);
+    font-size: 15px; 
+}
+#savemephoto{
+    width: 200px;
+    height: auto;
+    position: absolute;
+	top: 50%;
+	left: 37%;
+}
+#saveme p{ 
+    position: absolute;
+	top: 75%;
+    left: 40%;
+    font-size: 21px; 
+}
+#saveme span{
+    color: rgb(152, 115, 71);
+    font-size: 15px; 
+    margin-left: 20px;
+}
+#bennypetphoto{
+    width: 200px;
+    height: auto;
+    position: absolute;
+	top: 50%;
+	left: 55%;
+}
+#bennypet p{ 
+    position: absolute;
+	top: 75%;
+    left: 58%;
+    font-size: 20px; 
+}
+#bennypet span{
+    color: rgb(152, 115, 71);
+    font-size: 15px; 
+    margin-left: 20px;
+}
+#bcoephoto{
+    width: 200px;
+    height: auto;
+    position: absolute;
+	top: 50%;
+	left: 72%;
+}
+#bcoe p{ 
+    position: absolute;
+	top: 75%;
+    left: 76%;
+    font-size: 20px; 
+}
+#bcoe span{
+    color: rgb(152, 115, 71);
+    font-size: 15px; 
+    margin-left: 20px;
+}
+#boardphoto{
+    position: absolute;
+	top: 16%;
+    left: 25%;
+    width: 800px;
+}
+#posterphoto{
+    position: absolute;
+	top: 30%;
+    left: 17%;
+    width: 1000px;
+}
+#advertisingphoto{
+    position: absolute;
+	top: 30%;
+    left: 17%;
+    width: 1000px;
+}
