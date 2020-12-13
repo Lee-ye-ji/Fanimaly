@@ -10,8 +10,6 @@ html/css/javascript로 홈페이지 만들기
 ## :dog2:시현영상
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59958929/102018622-b0398f00-3db1-11eb-97ed-4f58b1e088b0.gif)
 
-
-
 ### :school: 학교에서 했던 디자인
 https://drive.google.com/file/d/1aHG11171W4tMFz4Yohpmbg2Vlqq--Z5o/view?usp=sharing
 
